@@ -17,7 +17,6 @@ Pos-pos administratif dibagi menjadi dua kelompok utama:
  * Kewajiban Komitmen dan Kewajiban Kontinjensi
 
 Tagihan Komitmen :
-
 Tagihan komitmen adalah fasilitas pinjaman yang telah disetujui tetapi belum digunakan oleh nasabah. Hal ini juga mencakup penjualan berjangka valuta asing (forward) dan penjualan valuta asing tunai (spot) yang telah disepakati namun belum diselesaikan.
 Kewajiban Komitmen
 Kewajiban komitmen adalah fasilitas kredit yang sudah disetujui, namun belum ditarik oleh nasabah.
