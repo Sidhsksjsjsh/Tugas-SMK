@@ -9,12 +9,15 @@ Rekening neraca dan laba rugi digunakan untuk melihat komponen-komponen keuangan
 ​Pencatatan transaksi dilakukan menggunakan sistem double entry (pembukuan berpasangan).
 
 Point 2 (halaman 26) : 
-Pos-Pos Administratif
+
+Pos-Pos Administratif :
 Pos-pos administratif merupakan kejadian yang akan berdampak pada tagihan atau kewajiban di masa mendatang. Pos-pos ini dicatat dalam pembukuan berpasangan (double entry).
 Pos-pos administratif dibagi menjadi dua kelompok utama:
  * Tagihan Komitmen dan Tagihan Kontinjensi
  * Kewajiban Komitmen dan Kewajiban Kontinjensi
-Tagihan Komitmen
+
+Tagihan Komitmen :
+
 Tagihan komitmen adalah fasilitas pinjaman yang telah disetujui tetapi belum digunakan oleh nasabah. Hal ini juga mencakup penjualan berjangka valuta asing (forward) dan penjualan valuta asing tunai (spot) yang telah disepakati namun belum diselesaikan.
 Kewajiban Komitmen
 Kewajiban komitmen adalah fasilitas kredit yang sudah disetujui, namun belum ditarik oleh nasabah.
